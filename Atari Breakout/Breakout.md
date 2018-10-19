@@ -1,6 +1,6 @@
 ##Atari Breakout
 
-As part of Hacktoberfest Breakout will be the first game in the game development series.
+As a part of Hacktoberfest Breakout will be the first game in the game development series.
 
 Atari Breakout is a simple game with ball and paddle from which we have to break the bricks without the ball going below the paddle.
 
